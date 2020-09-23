@@ -12,8 +12,6 @@ def generate_fizzbuzz_terms(number_of_terms):
             terms.append(str(i))
     return terms
 
-
-
 def main():
     input_string = input("How many fizzbuzz terms would you like?")
     if(input_string.isdigit()):
