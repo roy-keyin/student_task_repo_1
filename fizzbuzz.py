@@ -3,9 +3,9 @@ def generate_fizzbuzz_terms(number_of_terms):
     for i in range(1, number_of_terms+1):
         s = ''
         if (i % 3) == 0:
-            s = s + "Fizz"
+            s = s + "Bizz"
         if (i % 5) == 0:
-            s = s + "Buzz"
+            s = s + "Fuzz"
         if s:
             terms.append(s)
         else:
