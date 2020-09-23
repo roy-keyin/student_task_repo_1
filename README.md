@@ -1,7 +1,7 @@
 # student_task_repo_1
 Something for students to clone, to get familiar with git.
 
-Note: To clone this repository, you're going to want to try the following inside your terminal on Cloud9:
+To clone this repository, you're going to want to try the following inside your terminal on Cloud9:
 ```
 git clone https://github.com/roy-keyin/student_task_repo_1.git
 ```
